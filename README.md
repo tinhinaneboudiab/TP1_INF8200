@@ -2,7 +2,7 @@
 
 ## Auteur
 
-* [BOUDIAB Tinhinane](`<a href="mailto:boudiab.tinhinane@courrier.uqam.ca">`**`BOUT79360000`**`</a>`)
+* [BOUDIAB Tinhinane](<a href="mailto:boudiab.tinhinane@courrier.uqam.ca">**`BOUT79360000`**</a>)
 
 ## Objectif
 
